@@ -19,7 +19,10 @@ conda activate image2audio
 ```
 pip install -r requirements.txt
 ```
-
+### Get started
+```
+python app.py
+```
 ### References
 
 https://huggingface.co/docs/transformers/en/index
